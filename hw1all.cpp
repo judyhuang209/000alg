@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main(){
     char str1[10000] = "";
     char str2[10000] = "";
     while(cin >> str1 >> str2)
